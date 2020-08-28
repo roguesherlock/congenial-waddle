@@ -9,3 +9,5 @@ https://github.com/roguesherlock/react-typescript-tailwindcss-template
 ## Apps
 
 - [Clock](https://github.com/roguesherlock/react-clock)
+
+- [Calculator](https://github.com/roguesherlock/react-calc)
