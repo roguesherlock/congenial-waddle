@@ -11,3 +11,5 @@ https://github.com/roguesherlock/react-typescript-tailwindcss-template
 - [Clock](https://github.com/roguesherlock/react-clock)
 
 - [Calculator](https://github.com/roguesherlock/react-calc)
+
+- [Todo](https://github.com/roguesherlock/react-todo)
