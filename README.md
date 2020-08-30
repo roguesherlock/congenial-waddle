@@ -13,3 +13,5 @@ https://github.com/roguesherlock/react-typescript-tailwindcss-template
 - [Calculator](https://github.com/roguesherlock/react-calc)
 
 - [Todo](https://github.com/roguesherlock/react-todo)
+
+- [Twitter](https://github.com/roguesherlock/react-twitter)
